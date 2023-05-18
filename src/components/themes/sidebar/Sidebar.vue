@@ -5,7 +5,7 @@ import SiderbarNavList from "./SidebarNavList.vue";
 <template>
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <a href="/#" class="brand-link text-center">
-      <span class="brand-text font-weight-light text-center">ADMIN SAM</span>
+      <span class="brand-text font-weight-light text-center">ADMIN</span>
     </a>
     <div class="sidebar">
       <nav class="mt-2">

@@ -1,11 +1,11 @@
 import { createRouter, createWebHistory, RouteRecordRaw } from "vue-router";
-import { About, Dasboard, PageNotFound } from "../../pages";
+import { About, Dasboard, Login, PageNotFound } from "../../pages";
 
 const routes: Array<RouteRecordRaw> = [
   {
     path: "/",
-    name: "Home",
-    component: Dasboard
+    name: "Login",
+    component: Login
   },
   {
     path: "/dashboard",
